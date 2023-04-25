@@ -64,8 +64,6 @@ bin/rails server
  Feito  por <b>Vinícius Radis</b></a>
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-radis/)](https://www.linkedin.com/in/vinicius-radis/)
-
 
 <p align="center"> <img alt="MIT License" src="https://img.shields.io/badge/license-MIT-green"> </p>
 
